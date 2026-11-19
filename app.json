@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Payment Received",
+    "slug": "payment-received",
+    "scheme": "paymentreceived",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "bundleIdentifier": "au.com.blvckoak.paymentreceived"
+    },
+    "android": {
+      "package": "au.com.blvckoak.paymentreceived"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-notifications"
+    ]
+  }
+}
